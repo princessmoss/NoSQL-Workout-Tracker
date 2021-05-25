@@ -1,0 +1,24 @@
+{
+  "name": "nosql-workout-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princessmoss/NoSQL-Workout-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princessmoss/NoSQL-Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/princessmoss/NoSQL-Workout-Tracker#readme",
+  "dependencies": {
+    "seeds": "^2.3.1",
+    "server.js": "^1.0.0"
+  }
+}
