@@ -27,7 +27,7 @@
 
 
 ## Links
-[Repository](https://github.com/princessmoss/NoSQL-Workout-Tracker)
+[Repository](https://github.com/princessmoss/NoSQL-Workout-Tracker)<br>
 [Heroku Deployment](https://shrouded-wildwood-20742.herokuapp.com/)
 
 
