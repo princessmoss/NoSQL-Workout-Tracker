@@ -22,7 +22,9 @@
 
 
 ### Demo     
-![Demo GIF of the Application](./assets/TechBlog.gif) 
+<!-- ![Demo GIF of the Application](./assets/.gif)  -->
+![Demo GIF of the Application](https://user-images.githubusercontent.com/77419537/124364944-eb4ac500-dc12-11eb-8c97-a43a583bc849.gif)
+
 
 ## Links
 [Repository](https://github.com/princessmoss/NoSQL-Workout-Tracker)
